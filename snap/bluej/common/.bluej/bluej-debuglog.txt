@@ -1,0 +1,14 @@
+BlueJ run started: Wed Aug 30 10:57:18 PDT 2023
+BlueJ version 5.2.0
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Linux 6.2.0-26-generic (amd64)
+Java Home: /snap/bluej/314/usr/share/bluej/jdk
+----
+Detected language "english" based on iso639-2 code "eng"
+Opening project: /home/student/HelloWorld
+1693418274852: Listening for JDWP connection on address: 127.0.0.1:44157
+Connected to debug VM via dt_socket transport...
+java.io.FileNotFoundException while reading import cache: /home/student/snap/bluej/common/.bluej/import-cache.xml (No such file or directory)
+Communication with debug VM fully established.
