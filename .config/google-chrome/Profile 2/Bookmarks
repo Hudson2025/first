@@ -1,0 +1,59 @@
+{
+   "checksum": "39b29ffbff5ea953034dcc89b9ecc744",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13337289250566497",
+            "date_last_used": "0",
+            "guid": "a3a9f88f-064d-4925-8714-552db7603f72",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Mr. Jaffe's Class",
+            "type": "url",
+            "url": "https://www.mrjaffesclass.com/"
+         }, {
+            "date_added": "13337718529256486",
+            "date_last_used": "0",
+            "guid": "d5722034-d50c-4c2f-9280-4d9a2775e85f",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         } ],
+         "date_added": "13337286708525077",
+         "date_last_used": "0",
+         "date_modified": "13337718529256486",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13337286708525081",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13337286708525085",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CrcCCpYCCIiBAhKPAhJSCAISTgoGCgJibRABEDMaEgkAWlpv/wMGACEAWlpv/wMGACIUCdAJdX//AwYAEAEZoDzv0FAKlscyGAoWCAIRIbV4f/8DBgAYACEAAAAAAAAAACAAkgGwAQpnCg5jaHJvbWVfc3luY19ibRIFNTEhYm0aEgn+ynh//wMGABH+ynh//wMGACIxCc8JdX//AwYAEAEZgSZNSxlhhoIgASoZNTEhYm06NTk1NTMwMTk5MjE2Mzg4MTY2NSm003l//wMGAApFChZhbm5vdGF0aW9uX2Nocm9tZV9zeW5jEgU1MSFiZBoSCQDvFHr/AwYAEQDvFHr/AwYAKRnHeH//AwYAMIDe09D3/4ADugECCAESACoYanV2Q0dQMUk1THFINkxIRFlaM1hJdz09SAMS6wEIBxLmAQocTTU1T29TRVVpK0JrajRSTmR2SGVYczRvdGI4PRJmWjpBRHF0QVp6T1o2cysvSmMyallweFNldlIzNm53RjQ4YVU5UjRYN1JqTVUzb0dsOTZpWDBMS1Q3WmNNb09paFdKT1JuVERVaExwaTBRRGVsRWMxOVhpTWx2bEFrV3VRc3VYZz09GAAgAigCMM+T1Pv3/4ADOOjpjOqjMUC2ib/qozFKHHoya2dOZFpMRHBBVjRFYmVOK3RYYjlyS240QT1aHiIceDlEWEt4alBMdDhnYXhrSHpEdVZXTWVKd21FPWVdR4+DEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaelpzeUNYM1ppenRRZm5aVFk3eDFueGZ4U3BIbWdGMWQyUjlIZU1jK1k4SGtPYWVqMFVOSklTeEZDZittVUF0ZXAyZlE3VURrV2pMRGtZSW05S2RjWm9xenNyOHc9PRgAIAAoADDilJ6rrPOAAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFaeWFQaU5YUjIxL2xyWUpXS2NYSC9YVGlqeStlQW44RThaWENsN3kwenlET3o5WmdqQTY0eHFUMVZNa085Q1lDTXRtSktaTxgAIAAoADDilJ6rrPOAAzgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaenlZMjhFREQrNW94SHVKWHRRYlhYMlpyWnFXU3FRSjhxMzZnRk9ZT2dZOW9NU2tuWFBVRXJzY0FSK0tRVTMzNldlcm0yUzk3WkVtNTRTMlFudGVXeUVlK0hBN1E9PRgAIAAoADDilJ6rrPOAAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEusBCAUS5gEKHEZjNmhmYUViU05pSTZmUXNub2RBT2QxaHlTaz0SZlo6QURxdEFaek9aNnMrL0pjMmpZcHhTZXZSMzZud1RWczBoenJUWCtPU2ZDUGIrcTVmc2N4ZHVIWTJUa2dCSjFBc2NBV0xnTW4rWnJLWWREY1N1K24xVkJ1ZERmM2pWakh1UlE9PRgAIAIoAjCw7LXq9P+AAziH3rOdojFAucmL6qMxShw1NmlUb2EvNFhQRkhFKzhDYTIyNEJvVzBKUmc9Wh4iHE8rMm43K0dFcTA2cUpVWmVuYzIxaFc4YjdRRT1lCdwL7TABOAA=",
+   "version": 1
+}

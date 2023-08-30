@@ -1,0 +1,5 @@
+[core]
+	editor = nano
+[user]
+	email = hudson.land@mrjaffesclass.com
+	name = Hudson Land

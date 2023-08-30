@@ -1,0 +1,48 @@
+{
+   "checksum": "eb4dd8a820f24651b57f2cbc8c2f1b74",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13337289250566497",
+            "date_last_used": "0",
+            "guid": "a3a9f88f-064d-4925-8714-552db7603f72",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Mr. Jaffe's Class",
+            "type": "url",
+            "url": "https://www.mrjaffesclass.com/"
+         } ],
+         "date_added": "13337286708525077",
+         "date_last_used": "0",
+         "date_modified": "13337289250566497",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13337286708525081",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13337286708525085",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Cu0BCswBCIiBAhLFARI8CAISOAoGCgJibRABEDMaEgmAWrwFwwMGACGAWrwFwwMGADIYChYIAhEW8AgVwwMGABgAIQAAAAAAAAAAIACSAX0KNAoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJCwUJFcMDBgARCwUJFcMDBgAphfMJFcMDBgAKRQoWYW5ub3RhdGlvbl9jaHJvbWVfc3luYxIFNTEhYmQaEgmA73YQwwMGABGA73YQwwMGACnCAQkVwwMGADCA39uDsfiAA7oBAggBEgAqGGp1dkNHUDFJNUxxSDZMSERZWjNYSXc9PUgDEusBCAUS5gEKHEZjNmhmYUViU05pSTZmUXNub2RBT2QxaHlTaz0SZlo6QURxdEFaek9aNnMrL0pjMmpZcHhTZXZSMzZud1RWczBoenJUWCtPU2ZDUGIrcTVmc2N4ZHVIWTJUa2dCSjFBc2NBV0xnTW4rWnJLWWREY1N1K24xVkJ1ZERmM2pWakh1UlE9PRgAIAIoAjDCl6bH7fWAAziH3rOdojFAse+oxaIxShw1NmlUb2EvNFhQRkhFKzhDYTIyNEJvVzBKUmc9Wh4iHE8rMm43K0dFcTA2cUpVWmVuYzIxaFc4YjdRRT1lCdwL7RLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWnp5WTI4RUREKzVveEh1Slh0UWJYWDJaclpxV1NxUUo4cTM2Z0ZPWU9nWTlvTVNrblhQVUVyc2NBUitLUVUzMzZXZXJtMlM5N1pFbTU0UzJRbnRlV3lFZStIQTdRPT0YACAAKAAw4pSeq6zzgAM4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWnlhUGlOWFIyMS9scllKV0tjWEgvWFRpankrZUFuOEU4WlhDbDd5MHp5RE96OVpnakE2NHhxVDFWTWtPOUNZQ010bUpLWk8YACAAKAAw4pSeq6zzgAM4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWnpac3lDWDNaaXp0UWZuWlRZN3gxbnhmeFNwSG1nRjFkMlI5SGVNYytZOEhrT2FlajBVTkpJU3hGQ2YrbVVBdGVwMmZRN1VEa1dqTERrWUltOUtkY1pvcXpzcjh3PT0YACAAKAAw4pSeq6zzgAM4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAADABOAA=",
+   "version": 1
+}

@@ -1,0 +1,7 @@
+2023/08/29-10:59:07.900 3d06 Reusing MANIFEST /home/student/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/29-10:59:07.900 3d06 Recovering log #3
+2023/08/29-10:59:07.900 3d06 Reusing old log /home/student/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000003.log 
+2023/08/29-11:45:02.200 3d06 Level-0 table #5: started
+2023/08/29-11:45:02.201 3d06 Level-0 table #5: 8338 bytes OK
+2023/08/29-11:45:02.202 3d06 Delete type=0 #3
+2023/08/29-11:45:02.203 3d06 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

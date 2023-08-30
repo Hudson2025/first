@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" score="10890" last-seen="1693334053"/>
+    <application id="google-chrome.desktop" score="13287" last-seen="1693334704"/>
+    <application id="org.shotcut.Shotcut.desktop" score="0" last-seen="1692816188"/>
+    <application id="code.desktop" score="5" last-seen="1692816256"/>
+    <application id="org.gnome.gedit.desktop" score="1" last-seen="1693246776"/>
+    <application id="org.gnome.Terminal.desktop" score="779" last-seen="1693334697"/>
+    <application id="gnome-control-center.desktop" score="306783377" last-seen="1692728225"/>
+    <application id="bluej_bluej.desktop" score="70" last-seen="1693334513"/>
+  </context>
+</application-state>

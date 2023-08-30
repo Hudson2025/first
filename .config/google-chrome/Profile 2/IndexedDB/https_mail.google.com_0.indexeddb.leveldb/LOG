@@ -1,0 +1,6 @@
+2023/08/28-11:02:30.966 2482 Reusing MANIFEST /home/student/.config/google-chrome/Profile 2/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/28-11:02:30.966 2482 Recovering log #3
+2023/08/28-11:02:30.977 2482 Reusing old log /home/student/.config/google-chrome/Profile 2/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2023/08/28-11:02:42.495 2483 Level-0 table #5: started
+2023/08/28-11:02:42.505 2483 Level-0 table #5: 1400401 bytes OK
+2023/08/28-11:02:42.506 2483 Delete type=0 #3
